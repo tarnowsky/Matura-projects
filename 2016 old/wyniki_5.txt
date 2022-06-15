@@ -1,0 +1,8 @@
+ZADANIE 5.1.
+4
+
+ZADANIE 5.2.
+8
+
+ZADANIE 5.3.
+(51, 8)

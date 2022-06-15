@@ -1,0 +1,2 @@
+liczba wierszy: 1
+nr wiersza: [999]

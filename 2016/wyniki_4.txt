@@ -1,0 +1,12 @@
+ZADANIE 4.1.
+Nale¿¹ce do brzegu: [(256, 8), (200, 400)]
+Nale¿¹ce do wnêtrza: 7852
+
+ZADANIE 4.2.
+pi dla 1000 punktów: 3.228
+pi dla 5000 punktów: 3.1656
+pi dla wszystkch punktów: 3.1416
+
+ZADANIE 4.3.
+e1000: 0.0864
+e1700: 0.0184

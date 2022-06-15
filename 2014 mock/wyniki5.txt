@@ -1,0 +1,10 @@
+ZADANIE 5.1.
+11
+
+ZADANIE 5.2.
+maks wynik, ktory z kolei: (601, 176)
+min wynik, ktory z kolei: (401, 17)
+
+ZADANIE 5.3.
+maks seria: 6
+poprawa wyniku: 158cm

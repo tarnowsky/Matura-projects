@@ -1,0 +1,12 @@
+ZADANIE 4.1.
+liczba napisów dwucyklicznych: 18
+najdlu¿szy napis: 00100101100011100010010110001110
+dlugosc tego napisu: 32
+
+ZADNIE 4.2.
+liczba niepoprawnych napisów: 359
+najmniejsza d³ugoœæ niepoprawngo napisu: 4
+
+ZADANIE 4.3.
+najwiêksza liczba dziesiêtnie: 1101011001100101
+najwiêksza liczba binarnie: 54885

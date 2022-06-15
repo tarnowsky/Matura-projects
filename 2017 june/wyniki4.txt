@@ -1,0 +1,14 @@
+ZADANIE 4.1
+18
+
+ZADANIE 4.2
+5
+
+ZADANIE 4.3
+odleg³oœæ: 13348
+wspó³rzêdne punktów: [9901, 593] [35, 9583]
+
+ZADANIE 4.4
+wnetrze: 249
+krawêdŸ: 2
+zewnêtrze: 749

@@ -1,0 +1,12 @@
+ZADANIE 6.1
+najjaœniejszy piksel: 221
+najciemniejszy piksel: 7
+
+ZADANIE 6.2
+149
+
+ZADANIE 3
+753
+
+ZADANIE 4
+5

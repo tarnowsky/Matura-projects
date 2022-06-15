@@ -1,0 +1,13 @@
+ZADANIE 1
+ile poteg 3: 18
+
+ZADANIE 2
+2
+145
+1
+40585
+
+ZADANIE 3
+poczatek: 31968
+d³ugoœæ: 150
+nwd: 74
