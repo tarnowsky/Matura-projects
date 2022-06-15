@@ -1,0 +1,12 @@
+ZADANIE 4.1
+wiersze: [1, 16, 28, 43, 56, 91, 100]
+kolumny: [1, 82, 93, 200]
+
+ZADANIE 4.2
+wiersze z najdluzszym ciagiem: [63, 73]
+dlugosc ciagu: 10
+
+ZADANIE 4.3
+wysokosc: 13
+szerokosc: 2
+wspolrzedne lewego gornego rogu: (71, 102)

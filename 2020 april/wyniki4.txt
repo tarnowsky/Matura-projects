@@ -1,0 +1,11 @@
+ZADANIE 4.1
+max = 1056392131
+min = 1
+ZADANIE 4.2
+D³ = 17
+pierwsza = 193134524
+ostatnia = 223545714
+ZADANIE 4.3
+max krotnosc = 31
+luka o max krotnosci = 11
+luka o max krotnosci = 149
